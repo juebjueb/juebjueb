@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Erik Jue (@juebjueb)
+- 👀 I’m interested in automation engineering
+- 🌱 I’m currently learning QA automation, CD/CI, and algorithms
+- 💞️ I’m looking to collaborate on anything related to automated testing
+- 📫 Send me an email to jue.erik@gmail.com
